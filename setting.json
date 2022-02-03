@@ -1,0 +1,135 @@
+{
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "/assets/sass/css/"
+    },
+    {
+      "format": "compressed",
+      "extensionName": ".min.css",
+      "savePath": "/assets/sass/min-css/"
+    }
+  ],
+  "liveSassCompile.settings.generateMap": false,
+  "liveSassCompile.settings.excludeList": [
+    "**/node_modules/**",
+    ".vscode/**",
+    "**/3-basics/**"
+  ],
+  "editor.fontSize": 18,
+  "workbench.colorTheme": "Community Material Theme",
+  "php.executablePath": "",
+  "workbench.iconTheme": "material-icon-theme",
+  "yaml.schemas": {
+    "file:///c%3A/Users/aless/.vscode/extensions/atlassian.atlascode-2.10.6/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+  },
+  "atlascode.bitbucket.enabled": false,
+  "cSpell.language": "en,it,it-IT,en-US,en-GB",
+  "cSpell.userWords": [
+    "all'api",
+    "bloginfo",
+    "browserslist",
+    "camelcase",
+    "Choaches",
+    "compilescss",
+    "dashicons",
+    "dell'api",
+    "dell'array",
+    "fontawesome",
+    "gutemberg",
+    "l'array",
+    "laravel",
+    "Laydee",
+    "mamp",
+    "nprogress",
+    "nuxt",
+    "pokedex",
+    "Pollin",
+    "purgecss",
+    "snakebump",
+    "sveltejs",
+    "sveltekit",
+    "tailwind",
+    "tailwindcss",
+    "topbar",
+    "Vuex"
+  ],
+  "beautify.config": "",
+  "workbench.colorCustomizations": {
+    "terminal.background": "#273238",
+    "terminal.foreground": "#ffffff",
+    "terminalCursor.background": "#E9E9F4",
+    "terminalCursor.foreground": "#E9E9F4",
+    "terminal.ansiBlack": "#282936",
+    "terminal.ansiBlue": "#62D6E8",
+    "terminal.ansiBrightBlack": "#626483",
+    "terminal.ansiBrightBlue": "#62D6E8",
+    "terminal.ansiBrightCyan": "#A1EFE4",
+    "terminal.ansiBrightGreen": "#EBFF87",
+    "terminal.ansiBrightMagenta": "#B45BCF",
+    "terminal.ansiBrightRed": "#EA51B2",
+    "terminal.ansiBrightWhite": "#F7F7FB",
+    "terminal.ansiBrightYellow": "#00F769",
+    "terminal.ansiCyan": "#A1EFE4",
+    "terminal.ansiGreen": "#EBFF87",
+    "terminal.ansiMagenta": "#B45BCF",
+    "terminal.ansiRed": "#EA51B2",
+    "terminal.ansiWhite": "#E9E9F4",
+    "terminal.ansiYellow": "#00F769"
+  },
+  "editor.formatOnSave": true,
+  "editor.renderIndentGuides": false,
+  "redhat.telemetry.enabled": false,
+  "svelte.enable-ts-plugin": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "eslint.validate": ["javascript", "javascriptreact", "svelte"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "vetur.validation.template": false,
+  "tabnine.experimentalAutoImports": true,
+  "editor.fontFamily": "CaskaydiaCove NF",
+  "cSpell.customDictionaries": {
+    "custom-dictionary-user": {
+      "name": "custom-dictionary-user",
+      "path": "~/.cspell/custom-dictionary-user.txt",
+      "addWords": true,
+      "scope": "user"
+    }
+  },
+  //Settaggi Personali
+  "editor.minimap.enabled": false,
+  "editor.fontSize": 20,
+  "editor.lineHeight": 33,
+  "editor.fontLigatures": true,
+  "editor.multiCursorModifier": "alt",
+  "editor.cursorBlinking": "expand",
+  "editor.cursorWidth": 3,
+  "editor.tabSize": 2,
+  "editor.formatOnPaste": true,
+  "editor.wordWrap": "on",
+  "editor.wordSeparators": "`~!@#$%^&*()=+[{]}\\|;:'\",.<>/?",
+  "emmet.includeLanguages": {
+    "blade": "html",
+    "vue-html": "html",
+    "vue": "html",
+  },
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "workbench.colorTheme": "Community Material Theme",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "newUntitledFile",
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorBlinking": "true",
+  "terminal.integrated.cursorWidth": 3,
+  "namespaceResolver.sortAlphabetically": true, //Estensione namespaceResolver
+  "php.suggest.basic": false, //Estensione php intelliphense
+  "tailwindCSS.emmetCompletions": true, //Estensione Tailwind css
+  "tailwindCSS.colorDecorators": "off", //Estensione Tailwind css
+  "php-cs-fixer.onsave": true, //Estensione php-cs-fixer
+  "php-cs-fixer.showOutput": false, //Estensione php-cs-fixer
+  "php-cs-fixer.autoFixByBracket": false, //Estensione php-cs-fixer
+  "php-cs-fixer.rules": "@PSR2", //Estensione php-cs-fixer
+}
