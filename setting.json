@@ -1,4 +1,6 @@
 {
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs":"active",
   "liveSassCompile.settings.formats": [
     {
       "format": "expanded",
@@ -22,7 +24,7 @@
   "php.executablePath": "",
   "workbench.iconTheme": "material-icon-theme",
   "yaml.schemas": {
-    "file:///c%3A/Users/aless/.vscode/extensions/atlassian.atlascode-2.10.6/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    "file:///c%3A/Users/aless/.vscode/extensions/atlassian.atlascode-2.10.9/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
   },
   "atlascode.bitbucket.enabled": false,
   "cSpell.language": "en,it,it-IT,en-US,en-GB",
@@ -132,4 +134,5 @@
   "php-cs-fixer.showOutput": false, //Estensione php-cs-fixer
   "php-cs-fixer.autoFixByBracket": false, //Estensione php-cs-fixer
   "php-cs-fixer.rules": "@PSR2", //Estensione php-cs-fixer
+
 }
