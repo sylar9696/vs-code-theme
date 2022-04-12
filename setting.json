@@ -1,4 +1,7 @@
 {
+  "[markdown]": {
+    "editor.quickSuggestions": true,
+  },
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs":"active",
   "liveSassCompile.settings.formats": [
@@ -24,7 +27,7 @@
   "php.executablePath": "",
   "workbench.iconTheme": "material-icon-theme",
   "yaml.schemas": {
-    "file:///c%3A/Users/aless/.vscode/extensions/atlassian.atlascode-2.10.9/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    "file:///c%3A/Users/aless/.vscode/extensions/atlassian.atlascode-2.10.11/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
   },
   "atlascode.bitbucket.enabled": false,
   "cSpell.language": "en,it,it-IT,en-US,en-GB",
@@ -78,7 +81,10 @@
     "terminal.ansiMagenta": "#B45BCF",
     "terminal.ansiRed": "#EA51B2",
     "terminal.ansiWhite": "#E9E9F4",
-    "terminal.ansiYellow": "#00F769"
+    "terminal.ansiYellow": "#00F769",
+    "terminal.border": "#ffffff",
+    "sideBar.border": "#363849",
+    "panel.border": "#363849"
   },
   "editor.formatOnSave": true,
   "editor.renderIndentGuides": false,
@@ -133,6 +139,7 @@
   "php-cs-fixer.onsave": true, //Estensione php-cs-fixer
   "php-cs-fixer.showOutput": false, //Estensione php-cs-fixer
   "php-cs-fixer.autoFixByBracket": false, //Estensione php-cs-fixer
-  "php-cs-fixer.rules": "@PSR2", //Estensione php-cs-fixer
+  "php-cs-fixer.rules": "@PSR2",
+  "git.confirmSync": false, //Estensione php-cs-fixer
 
 }
